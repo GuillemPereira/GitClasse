@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Prueba git</h1>
+
+    <button type="submit">Enviar</button>
 </body>
 </html>
