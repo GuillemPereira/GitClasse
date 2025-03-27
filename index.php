@@ -8,6 +8,6 @@
 <body>
     <h1>Prueba git</h1>
 
-    <button type="submit">Boton Enviar</button>
+    <button type="submit">Enviar</button>
 </body>
 </html>
