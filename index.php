@@ -9,5 +9,7 @@
     <h1>Prueba git</h1>
 
     <button type="submit">Enviar</button>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error at autem praesentium perspiciatis aliquam, recusandae excepturi id ullam dicta ad fugit expedita explicabo possimus? Eaque sed dignissimos voluptatibus possimus fuga.</p>
+    <a href="http://www.google.es"></a>
 </body>
 </html>
